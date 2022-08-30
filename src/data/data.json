@@ -1,0 +1,35 @@
+{
+  "Header": {
+    "title": "Decentralized Blockchain Apps",
+    "paragraph": ""
+  },
+ 
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "General copywrite content",
+      "text": "By using this service you will have permission to deploy your link with specific content like pdf or video or image and so on.  you will have copyright content depending on blockchain technology."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Decenter App Book",
+      "text": "With the first service, you will share general content but here with this service, you will have copywrite only to  your book with id and book name also author and deploy your  book linker to  download by using an immutable ledger"
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "NFT",
+      "text": "A non-fungible token (NFT) is a digital asset that is verifiable on blockchain technology. Assets include artwork, music, or in-game assets such as unique avatars. Because they are unique, NFTs are becoming sought after as collectibles."
+    }
+  ],
+  
+   
+  "Contact": {
+    "address": "Alsharqia, 10th of ramadan ",
+    "phone": "5204507",
+    "email": "anasalbrans@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  }
+ 
+}
